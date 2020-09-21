@@ -1,2 +1,3 @@
 # fid
-Repository to store code/site/projects for Interactive Design class.
+This Repository is for the class DIG2500 Fudamentals of Interactive Design
+
